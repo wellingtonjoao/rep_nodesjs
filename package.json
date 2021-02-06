@@ -6,6 +6,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "mysql": "^2.18.1",
+    "nextjs": "0.0.3",
     "spress": "^1.0.0"
   },
   "devDependencies": {},
